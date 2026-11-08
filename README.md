@@ -2,7 +2,7 @@
 
 Data scientist and ML builder, currently pursuing an **M.S. in Computer Science & AI at Boston University**. I hold a **B.S. in Data Science from San José State University** (2026). I like training models and turning them into products people can actually use, and I'm working toward roles where data, ML, and product decisions meet.
 
-📄 [Resume](resume/Resume_AymanRabia.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/ayman-r-a324042b6) · 📝 [Portfolio Reflection](REFLECTION.md)
+ [Resume](resume/Resume_AymanRabia.pdf) ·  [LinkedIn](https://www.linkedin.com/in/ayman-r-a324042b6) 
 
 ---
 
