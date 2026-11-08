@@ -9,7 +9,6 @@ Data scientist and ML builder, currently pursuing an **M.S. in Computer Science 
 ## What I'm working on
 - **Grad studies at BU**, focused on computer science and AI
 - **Cyphelink:** founder of an early-stage startup building AI referral triage for specialty clinics
-- **ML practice:** working through implementation problems in [deep-ml](https://github.com/ayrabia/deep-ml)
 
 ## Technical interests
 - **Applied machine learning:** classification, causal inference, and uplift modeling
